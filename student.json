@@ -1,0 +1,24 @@
+{
+    "firstName": "Rohith Reddy",
+    "lastName": "Madhira",
+    "dob": "01-01-01",
+    "addresses": [
+        {
+            "type": "permanent",
+            "doorNo": "1-123",
+            "streetName": "Naya Nagar",
+            "city": "Hyderabad"
+        },
+        {
+            "type": "temporary",
+            "doorNo": "1-123",
+            "streetName": "Naya Nagar",
+            "city": "Hyderabad"
+        }
+    ],
+    "skills": {
+        "OS": "Linux",
+        "IDE": "VsCode",
+        "CM": "ansible"
+    }
+}

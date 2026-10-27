@@ -1,0 +1,35 @@
+- first_name: "Rohith Reddy"
+  lastName: "Madhira"
+  dob: 01-01-01
+  # - is for list
+  addresses:
+  - type: permanent
+    doorNo: 8-123,
+    streetName: Naya Nagar
+    city: Hyderabad
+  - type: temporary
+    doorNo: 8-123,
+    streetName: Naya Nagar
+    city: Hyderabad
+  skills:
+    OS: Linux
+    IDE: VsCode
+    CM: ansible
+
+- first_name: "Roja Reddy"
+  lastName: "Madhira"
+  dob: 01-01-01
+ 
+  addresses:
+  - type: permanent
+    doorNo: 8-123,
+    streetName: Naya Nagar
+    city: Hyderabad
+  - type: temporary
+    doorNo: 8-123,
+    streetName: Naya Nagar
+    city: Hyderabad
+  skills:
+    OS: Linux
+    IDE: VsCode
+    CM: ansible
